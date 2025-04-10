@@ -215,6 +215,7 @@ export default function AddStudent() {
                 </div>
                 <div className="flex items-center justify-center">
                     <button className="bg-blue-600 text-white rounded-lg w-40 h-14">Ajouter</button>
+                    
                 </div>
             </form>        
         </div>
